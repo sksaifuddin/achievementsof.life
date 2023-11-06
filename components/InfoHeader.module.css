@@ -1,6 +1,12 @@
 .info-container{
   margin-top: 50px;
 }
+.name {
+  font-size: 35px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+}
 .title {
   font-size: 35px;
 }

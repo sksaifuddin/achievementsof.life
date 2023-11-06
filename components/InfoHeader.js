@@ -1,11 +1,12 @@
 import React from 'react';
 import styles from './InfoHeader.module.css';
+
 // import TwitterIcon from '/twitter.svg';
 // import GitHubIcon from '/GitHub.svg';
 export default function InfoHeader({ name = '', github = '', twitter = '', peerlist= '' }) {
   return (
     <div className={styles['info-container']}>
-      <h1 className={styles['title']}>{name}</h1>
+      <h1 className={styles['name']}>{name}</h1>
       <div className={styles['icon-container']}>
         {twitter && (
           <a href={twitter}>
@@ -35,6 +36,7 @@ export default function InfoHeader({ name = '', github = '', twitter = '', peerl
           </a>
         )}
       </div>
+      <h1 className={styles['title']}>Achievements of my life</h1>
     </div>
   );
 }

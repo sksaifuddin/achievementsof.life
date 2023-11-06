@@ -11,13 +11,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Achievementsof.life</h1>
-        <a
-          className="create-your-page"
-          href="https://github.com/plxity/achievementsof.life#readme"
-        >
-          Start documenting every achievement. 🎉
-        </a>
+        <h1 className={styles.title}>Achievements of my life</h1>
       </main>
     </div>
   );

@@ -1,0 +1,18 @@
+---
+Name: 'Shaik Saifuddin'
+Twitter: 'https://twitter.com/atushaik'
+Github: 'https://github.com/sksaifuddin'
+Interests: ['Coding', 'Gaming', 'Side Projects']
+---
+
+## October 2023
+- Experienced Halloween for the first time in Canada.
+- Started with a freelancing project.
+
+## September 2023
+- Delivered my first public talk at the Hfx.js meetup for the Halihax community in Halifax, focusing on [Web Components](https://docs.google.com/presentation/d/1A0D5JLVM5MxANrsCPuiBGa5DTiqNfpA7DEZ0tE7Bm9Q/edit?usp=sharing).
+- Got offer letter from Canada Revenue Agency for Co-op starting from winter 2024.
+
+## August 2023
+- [Passed AWS Associate Solutions Architect certification exam](https://www.credly.com/badges/cd86c6f3-bc23-46bb-8788-70332fab6b13/public_url)  
+

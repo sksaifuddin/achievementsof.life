@@ -5,6 +5,15 @@ Github: 'https://github.com/sksaifuddin'
 Interests: ['Coding', 'Gaming', 'Side Projects']
 ---
 
+## December 2023
+- Shifted from a sharing room to a private room of my own.
+- Completed all my courses and assignments of my masters.
+- Worked on average 14 hours a day, everyday, multiple jobs to collect money for the university fee
+
+## November 2023
+- Attended [Atlantic Tech Summit](https://www.atlantictechsummit.com/)
+- Did part-time job whole reading week. 
+
 ## October 2023
 - Experienced Halloween for the first time in Canada.
 - Started with a freelancing project.

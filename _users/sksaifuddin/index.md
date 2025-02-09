@@ -2,8 +2,17 @@
 Name: 'Shaik Saifuddin'
 Twitter: 'https://twitter.com/atushaik'
 Github: 'https://github.com/sksaifuddin'
+Portfolio: 'https://portfolio-one-sand-71.vercel.app/'
 Interests: ['Coding', 'Gaming', 'Side Projects']
 ---
+
+## January 2025
+- Got an offer from ResMed in Halifax
+- Started learning French and Arabic
+
+## February 2025
+- Passed driving Road test in Halifax
+- Started working for ResMed
 
 ## December 2023
 - Shifted from a sharing room to a private room of my own.
